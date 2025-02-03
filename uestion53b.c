@@ -1,3 +1,4 @@
+// 2.	Write a program to print prime numbers between two numbers given by user.
 #include <stdio.h>
 
 int main(){
